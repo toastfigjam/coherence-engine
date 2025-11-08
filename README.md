@@ -131,3 +131,10 @@ here, AI is used as a tuning fork, not a replacement: a way to refine language, 
 **author:** Hasna · [toast & fig jam](https://toastandfigjam.com)  
 **focus:** human systems design, coherent automation, regenerative data ethics
 
+---
+
+© 2025 Hasna · toast & fig jam  
+This work is shared under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
+Written in human–AI collaboration to explore coherence, creativity, and collective aliveness.
+
+
