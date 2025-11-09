@@ -112,6 +112,13 @@ if machines can learn to *sense the human tempo*, we might finally build systems
 
 ---
 
+### Part of the *Coherence Trilogy*  
+→ [coherence-engine](https://github.com/yourusername/coherence-engine)  
+→ [internal-economy](https://github.com/yourusername/internal-economy)  
+→ [attention-ecology](coming soon)
+
+---
+
 ## 9. ai authorship + human creativity
 
 this document was written in **co-creation with AI**, guided by human philosophy, intention, and editorial direction.
