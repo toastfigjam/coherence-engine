@@ -16,7 +16,7 @@ In simple terms, coherence means:
 
 In biology, coherence is what allows complex systems to stay stable while still evolving. In organizations, the same principle improves creativity, execution, and long term resilience.
 
-Coherence is not about slowing down. It is about removing friction so the system can perform at a high level without burning through its people.
+Coherence is not about slowing down. It is about removing friction so the system can perform at a high level without burning through its resources.
 ---
 
 ## 1. why this matters
